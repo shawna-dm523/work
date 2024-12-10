@@ -23,3 +23,5 @@ This repository showcases my work in Natural Language Processing (NLP) as part o
 -   **Frameworks**: TensorFlow, PyTorch, Hugging Face Transformers
 -   **Tools**: Scikit-learn, NLTK, SpaCy, Gensim
 -   **Version Control**: Git/GitHub
+
+All projects in repository are a work-in-progress. Check back for updates!
