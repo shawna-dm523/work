@@ -1,0 +1,29 @@
+# Advanced Statistical Natural Language Processing (LING-582)
+
+## Projects
+
+### 1. [Cross-Lingual Word Embedding Matching with Low-Resource Languages](/cross-embed)
+
+-   Focus: Mapping phrases from Yoruba to English using pre-trained embeddings.
+-   Methods: Cross-lingual embedding alignment, data preprocessing, evaluation metrics.
+
+### 2. [Authorship Determination Kaggle Competition](/authorship-verification)
+
+-   Focus: Determining authorship using text features and classification models.
+-   Leaderboard Score: 0.51703
+-   Techniques: Feature engineering, ensemble modeling, fine-tuning hyperparameters.
+
+### 3. [Course Blog](/course-blog)
+
+-   Summary reports on research papers, project results, and outcomes.
+
+## Technologies Used
+
+-   **Programming Languages**: Python
+-   **Frameworks**: TensorFlow, PyTorch, Hugging Face Transformers
+-   **Tools**: Scikit, NLTK, SpaCy, Gensim, NumPy
+-   **Version Control**: Git/GitHub
+
+All projects in repository are a work-in-progress and results/outcomes/scores may change. Check back for updates!
+
+[~](https://smbirnbaum.github.io/work) | [Bio](/bio/) | [CV](/cv/) | [Writing](/writing/)
