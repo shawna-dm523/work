@@ -2,7 +2,7 @@
 
 Projects I've done at The University of Arizona as part of my coursework with the Human Language Technology program.
 
-[Advanced Statistical Natural Language Processing - LING 582](/adv-statistical-nlp)
+[Advanced Statistical Natural Language Processing - LING 582](https://smbirnbaum.github.io/work/adv-statistical-nlp)
 
 More to follow.
 
