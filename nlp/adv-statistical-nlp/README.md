@@ -26,4 +26,4 @@
 
 All projects in repository are a work-in-progress and results/outcomes/scores may change. Check back for updates!
 
-[~](https://smbirnbaum.github.io/work) | [Bio](/work/bio/) | [CV](/work/cv/) | [Writing](/work/writing/)
+[~](https://smbirnbaum.github.io/work) | [Bio](https://smbirnbaum.github.io/work/bio/) | [CV](https://smbirnbaum.github.io/work/cv/) | [Writing](https://smbirnbaum.github.io/work/writing/)
