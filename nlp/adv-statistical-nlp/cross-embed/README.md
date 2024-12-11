@@ -1,4 +1,6 @@
-# Cross-Lingual Word Embedding Matching for Yoruba-English
+# Cross-Lingual Word Embedding Matching for Yoruba-English README
+
+[Repo](https://github.com/smbirnbaum/work/tree/f95255d2495667c5411812b4a3a0bda1d0515331/nlp/adv-statistical-nlp/cross-embed)
 
 A project that compares the performance of `FastText` and `mBert` for word embedding with Yoruba and English as the target languages using cosine similarity.
 

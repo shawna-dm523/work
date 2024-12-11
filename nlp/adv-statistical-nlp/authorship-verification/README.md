@@ -1,4 +1,6 @@
-# Class Competition README
+# Authorship verification README
+
+[Repo](https://github.com/smbirnbaum/work/tree/f95255d2495667c5411812b4a3a0bda1d0515331/nlp/adv-statistical-nlp/authorship-verification)
 
 Leaderboard score: **0.51703**
 
