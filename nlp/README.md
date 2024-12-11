@@ -6,4 +6,4 @@ Projects I've done at The University of Arizona as part of my coursework with th
 
 More to follow.
 
-[~](https://smbirnbaum.github.io/work) |[Bio](/bio) | [CV](/cv/) | [NLP](/nlp/) | [Writing](/writing/)
+[~](https://smbirnbaum.github.io/work) |[Bio](/work/bio) | [CV](/work/cv/) | [NLP](/work/nlp/) | [Writing](/work/writing/)

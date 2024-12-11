@@ -74,4 +74,4 @@ Arizona State University, *College of Integrated Sciences and Arts*
 
 --
 
-[~](https://smbirnbaum.github.io/work) | [Bio](/bio/) | [NLP](/nlp/) | [Writing](/writing/)
+[~](https://smbirnbaum.github.io/work) | [Bio](/work/bio/) | [NLP](/work/nlp/) | [Writing](/work/writing/)
