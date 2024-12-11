@@ -2,18 +2,18 @@
 
 ## Projects
 
-### 1. [Cross-Lingual Word Embedding Matching with Low-Resource Languages](https://smbirnbaum.github.io/work/adv-statistical-nlp/cross-embed)
+### 1. [Cross-Lingual Word Embedding Matching with Low-Resource Languages](https://smbirnbaum.github.io/work/nlp/adv-statistical-nlp/cross-embed)
 
 -   Focus: Mapping phrases from Yoruba to English using pre-trained embeddings.
 -   Methods: Cross-lingual embedding alignment, data preprocessing, evaluation metrics.
 
-### 2. [Authorship Determination Kaggle Competition](https://smbirnbaum.github.io/work/adv-statistical-nlp/authorship-verification)
+### 2. [Authorship Determination Kaggle Competition](https://smbirnbaum.github.io/work/nlp/adv-statistical-nlp/authorship-verification)
 
 -   Focus: Determining authorship using text features and classification models.
 -   Leaderboard Score: 0.51703
 -   Techniques: Feature engineering, ensemble modeling, fine-tuning hyperparameters.
 
-### 3. [Course Blog](https://smbirnbaum.github.io/work/adv-statistical-nlp/course-blog)
+### 3. [Course Blog](https://smbirnbaum.github.io/work/nlp/adv-statistical-nlp/course-blog)
 
 -   Summary reports on research papers, project results, and outcomes.
 
