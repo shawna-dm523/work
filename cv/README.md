@@ -10,7 +10,7 @@ Currently based in Malmö seeking junior roles involving NLP / machine learning 
 
 **Master of Science, Human Language Technology**
 <br>The University of Arizona, *College of Social and Behavioral Sciences, Department of Linguistics*
-<br>May 2025 (expected)</br>
+<br>May 2025 (expected)
 
 **Bachelor of Science, Technical Communication**  
 Arizona State University, *College of Integrated Sciences and Arts* 
