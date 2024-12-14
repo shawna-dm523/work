@@ -13,9 +13,9 @@
 -   Leaderboard Score: 0.51703
 -   Techniques: Feature engineering, ensemble modeling, fine-tuning hyperparameters.
 
-### 3. [Course Blog](https://github.com/smbirnbaum/work/tree/e9fa92d02b01a1808354d1d47be2ea728fa4188e/nlp/adv-statistical-nlp/course-blog)
+### 3. [Paper summary](/work/nlp/adv-statistical-nlp/course-blog/paper-summary/)
 
--   Summary reports on research papers, project results, and outcomes.
+-   A survey on recent approaches for natural language processing in low-resource scenarios.
 
 ## Technologies Used
 
