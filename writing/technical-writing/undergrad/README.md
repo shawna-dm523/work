@@ -17,4 +17,4 @@ This is an edit of the original where I attempt to create a version that is clea
 - [When it comes to NATO](/work/writing/technical-writing/undergrad/nato-edit.pdf)
 - [Utah Alcohol & Drug Laws](/work/writing/technical-writing/undergrad/UtahAlcoholCut.pdf)
 
-[~](https://smbirnbaum.github.io/work) | [Bio](https://smbirnbaum.github.io/work/bio/) | [NLP](https://smbirnbaum.github.io/work/nlp/) | [CV](https://smbirnbaum.github.io/work/cv/) | [Writing](/writing/README.md)
+[~](https://smbirnbaum.github.io/work) | [Bio](https://smbirnbaum.github.io/work/bio/) | [NLP](https://smbirnbaum.github.io/work/nlp/) | [CV](https://smbirnbaum.github.io/work/cv/) | [Writing](/work/writing)
