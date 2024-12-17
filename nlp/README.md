@@ -17,7 +17,7 @@ Projects I've done at The University of Arizona as part of my coursework with th
 -   Leaderboard Score: 0.51703
 -   Techniques: Feature engineering, ensemble modeling, fine-tuning hyperparameters.
 
-3. [Paper summary](/work/nlp/course-blog/paper-summary/)
+3. [Paper summary](https://smbirnbaum.github.io/work/nlp/course-blog/paper-summary)
 
 -   A survey on recent approaches for natural language processing in low-resource scenarios.
 
