@@ -35,5 +35,3 @@ I left California for Stockholm in 2016 for the sake of love. When that dissolve
 ### FOR FUN
 
 When I'm not buried in software documentation or pull requests, I enjoy cooking, baking, traveling, reading, video games, yoga, and sleeping.
-
-[~](https://smbirnbaum.github.io/work) | [CV](https://smbirnbaum.github.io/work/cv/) | [NLP](https://smbirnbaum.github.io/work/nlp/) | [Writing](https://smbirnbaum.github.io/work/writing/)
