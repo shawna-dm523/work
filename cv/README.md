@@ -71,7 +71,3 @@ Arizona State University, *College of Integrated Sciences and Arts*
 ## **Contact**
 - **Email:** ms.shawna[at]gmail[dot]com
 - **LinkedIn:** [linkedin.com/in/smbirnbaum](http://linkedin.com/in/smbirnbaum)
-
---
-
-[~](https://smbirnbaum.github.io/work) | [Bio](https://smbirnbaum.github.io/work/bio/) | [NLP](https://smbirnbaum.github.io/work/nlp/) | [Writing](https://smbirnbaum.github.io/work/writing/)
